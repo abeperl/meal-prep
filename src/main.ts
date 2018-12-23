@@ -13,3 +13,5 @@ new Vue({
     store,
     render: h => h(App)
 }).$mount('#app');
+
+// this is a comment for the master branch
