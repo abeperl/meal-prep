@@ -14,4 +14,5 @@ new Vue({
     render: h => h(App)
 }).$mount('#app');
 
+// this is a comment for the master branch
 // adding a comment to this file using the readme branch
